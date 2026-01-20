@@ -1,0 +1,8 @@
+Cluster_clinical,GADD45A,FOXM1,CCNA2,UPK3A,FGFR3,CXCR4,CTNNB1,APOE,MAPT,MMP14,S100A9,ANXA1,FN1,MYC,BIRC5,CCNE1,CCNB1,TFRC,LTBP1,GATAD2A,SPP1,CDKN1A,SERPINE1,NRP1,ITGA5
+Tis,up,up,up,up,up,down,down,neutral,down,down,down,down,down,down,down,down,down,down,down,down,down,down,down,down,down
+Ta,up,up,up,down,up,up,up,up,down,neutral,down,neutral,down,down,down,neutral,neutral,neutral,neutral,down,down,down,down,down,down
+T1,down,neutral,neutral,down,neutral,up,up,up,up,up,up,up,up,neutral,neutral,down,down,down,neutral,neutral,neutral,neutral,down,neutral,neutral
+T2a,down,down,down,down,down,down,down,down,neutral,down,down,neutral,down,up,up,up,up,up,up,up,neutral,down,neutral,down,down
+T2b,down,down,down,down,down,neutral,neutral,down,up,neutral,up,down,down,up,up,up,neutral,down,up,up,down,down,neutral,down,neutral
+T3,down,down,down,up,neutral,down,down,down,down,down,neutral,down,up,down,neutral,up,up,up,up,up,up,up,up,up,up
+T4,down,down,down,up,down,down,down,down,neutral,down,down,down,neutral,down,down,down,down,down,up,up,up,up,up,up,down
